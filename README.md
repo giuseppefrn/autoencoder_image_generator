@@ -15,7 +15,7 @@ After installing the Poetry package, you can install the required dependencies b
 
 ```poetry install```
 
-Ensure you are using the correct Python version (3.8) by running.
+Ensure you are using the correct Python version (3.8).
 
 
 ## Usage
